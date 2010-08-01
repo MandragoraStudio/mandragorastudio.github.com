@@ -1,0 +1,50 @@
+
+
+body{
+    background-color:whitesmoke;
+
+}
+
+#header_wrapper{
+    margin: 0 auto;
+    width: 100%;
+}
+
+#header{
+    margin: 0 auto;
+    width: 600px;
+}
+
+#content{
+    clear: both
+}
+#footer{
+
+}
+
+#nav-main{
+    text-align: center;
+}
+
+#nav-main ul{
+
+    list-style-type: none;
+    margin:0;
+    padding:0;
+
+}
+
+#nav-main li{
+    
+    float:left;
+}
+#nav-main a{    
+    display:block;
+    width: 120px;
+
+}
+
+
+
+
+
