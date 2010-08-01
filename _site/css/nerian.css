@@ -1,24 +1,27 @@
 body{
-    background-color:whitesmoke;
+    margin: 0 0 0 0;
 
 }
 
 #header_wrapper{
     margin: 0 auto;
     width: 100%;
+    height: 30px;
+    background-color: whitesmoke;
 }
 
 #header{
     margin: 0 auto;
-    width: 600px;        
+    width: 600px;
+    
 }
 
 
 #content_wrapper{
     clear: both;
-    min-height: 600px;
+    min-height: 500px;
     width: 700px;
-    margin: 0 auto;
+    margin: 0 auto; 
 }
 
 #content{
@@ -36,6 +39,7 @@ body{
 
 #nav-main{
     text-align: center;
+    
 }
 
 #nav-main ul{
@@ -55,6 +59,10 @@ body{
     font-size: 27px;
     display:block;
     width: 120px;        
+}
+
+p{
+    text-indent: 20px
 }
 
 
